@@ -402,21 +402,21 @@ start of about me css */
 }
 
 #about_me_body {
-    width: 1000px;
+    width: 900px;
     text-align: center;
     font-size: 22px;
     color: white;
 }
 
 #about_me_body2 {
-    width: 1300px;
+    width: 1050px;
     text-align: center;
     font-size: 17px;
     color: white;
 }
 
 #contact2 {
-    width: 980px;
+    width: 950px;
     height: 450px;
     background-color: #422CA7;
     margin: 32px;
@@ -524,7 +524,7 @@ end of writing css */
     width: 1024px;
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #secret_list {
